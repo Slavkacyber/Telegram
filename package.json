@@ -1,0 +1,12 @@
+﻿{
+  "name": "telegram-logger",
+  "version": "1.0.0",
+  "description": "Логирование номеров и кодов",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
